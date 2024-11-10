@@ -1,7 +1,7 @@
 # NmapConvert
 Convert Nmap Output
 
-Converts nmap default scan output into XML.
+Converts nmap default scan output into XML for importing into Metasploit's database.
 
 Example input:
 
